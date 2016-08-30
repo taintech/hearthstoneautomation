@@ -2,7 +2,7 @@ from commonhelpers import app
 
 APP_NAME = "Battle.net"
 DATA_DIR = "../data/battlenet/"
-
+# http://www.hearthhead.com/card=922&power
 
 def start():
     app.open(APP_NAME)
