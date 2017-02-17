@@ -6,7 +6,7 @@ DATA_DIR = "../data/obs/"
 
 def start():
     app.open(APP_NAME)
-    app.wait(2)
+    app.wait(5)
 
 
 def stop():
